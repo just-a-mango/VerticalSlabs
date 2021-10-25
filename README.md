@@ -1,9 +1,6 @@
-# Fabric Example Mod
-
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+# VerticalSlabs
+![Java 16](https://img.shields.io/badge/language-Java%2016-9B599A.svg?style=flat-square)![Mod loader: Fabric](https://img.shields.io/badge/modloader-fabric-blue?style=flat-square)
+### Does this need a description ?
+
+## License
+This mod is available under the MIT license.

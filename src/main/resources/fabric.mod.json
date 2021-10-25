@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "verticalslabs",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "VerticalSlabs",
+  "description": "Does this need a description ?",
   "authors": [
-    "Me!"
+    "Just_a_Mango"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "",
+    "sources": ""
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "Just_a_Mango",
+  "icon": "assets/verticalslabs/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.mangoverticalslabsVerticalSlabs"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "verticalslabs.mixins.json"
   ],
 
   "depends": {
