@@ -5,7 +5,7 @@
   </a>
 </p>
 
-###A minecraft mod for Fabric that adds vertical slabs...and a bit more
+### A minecraft mod for Fabric that adds vertical slabs...and a bit more
 
 ### 🏠 [Homepage](https://github.com/Just-A-Mango/VerticalSlabs#readme)
 
