@@ -9,7 +9,7 @@
 
 ### 🏠 [Homepage](https://github.com/Just-A-Mango/VerticalSlabs#readme)
 
-## Usage
+
 ## Usage
 
 
