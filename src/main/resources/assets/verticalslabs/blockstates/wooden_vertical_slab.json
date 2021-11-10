@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "sided=false": { "model": "verticalslabs:block/wooden_vertical_slab" },
+    "sided=true": { "model": "verticalslabs:block/wooden_vertical_slab_otherside" }
+  }
+}
+
