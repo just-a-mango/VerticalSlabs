@@ -29,3 +29,8 @@ Just download Fabric and the Fabric API, and put this mod into your mods folder
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Just-A-Mango/VerticalSlabs/issues).
+
+## 🏛️ License
+[MIT License](https://github.com/just-a-mango/VerticalSlabs/blob/1.17/LICENSE)
+
+Copyright (c) 2022 Just_a_Mango
