@@ -1,6 +1,4 @@
-# Not worked on anymore (maybe sometime I'll work again on it idk)
-<br><br><br>
-<h1 align="center">Welcome to Vertical Slabs 👋</h1>
+<h1 align="center">Welcome to Vertical Slabs 👋 (not actively worked on)</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
